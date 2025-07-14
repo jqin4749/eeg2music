@@ -1,24 +1,24 @@
-# Video Player
+# Audio Player
 
-This page contains video players for all the video files in the assets folder. Each song has 7 variations displayed in a row.
+This page contains audio players for all the audio files in the assets folder. Each song has 7 variations displayed in a row.
 
 ## Careless Love
 
 | Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
 |----------|------------|-------|------------|--------|---------|------------|
-| <video controls><source src="assets/careless_love-10_orig.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_upperbound.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_ridge.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_nonlin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_lin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_eeg2mel.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/careless_love-10_gen_cov.mov" type="video/mov">Your browser does not support the video element.</video> |
+| <audio controls><source src="assets/careless_love-10_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 ## Canopee
 
 | Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
 |----------|------------|-------|------------|--------|---------|------------|
-| <video controls><source src="assets/canopee-7_orig.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_upperbound.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_ridge.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_nonlin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_lin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_eeg2mel.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/canopee-7_gen_cov.mov" type="video/mov">Your browser does not support the video element.</video> |
+| <audio controls><source src="assets/canopee-7_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 ## Ainvayi Ainvayi
 
 | Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
 |----------|------------|-------|------------|--------|---------|------------|
-| <video controls><source src="assets/ainvayi_ainvayi-4_orig.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_lin.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.mov" type="video/mov">Your browser does not support the video element.</video> | <video controls><source src="assets/ainvayi_ainvayi-4_gen_cov.mov" type="video/mov">Your browser does not support the video element.</video> |
+| <audio controls><source src="assets/ainvayi_ainvayi-4_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 ---
 
@@ -26,8 +26,8 @@ This page contains video players for all the video files in the assets folder. E
 
 - **Total Songs**: 3
 - **Variations per Song**: 7
-- **Total Video Files**: 21
-- **Format**: MOV
+- **Total Audio Files**: 21
+- **Format**: WAV
 - **Location**: `assets/` folder
 
 ### Song Details:
@@ -36,7 +36,7 @@ This page contains video players for all the video files in the assets folder. E
 3. **Ainvayi Ainvayi** - 4 variations (including original)
 
 ### Variation Types:
-- **Original**: The source video file
+- **Original**: The source audio file
 - **Upperbound**: Generated using upperbound method
 - **Ridge**: Generated using ridge regression
 - **Non-linear**: Generated using non-linear method

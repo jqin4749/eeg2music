@@ -1,24 +1,48 @@
 # Audio Player
 
-This page contains audio players for all the audio files in the assets folder. Each song has 7 variations displayed in a row.
+This page contains audio players for all the audio files in the assets folder. Each variation type has 3 songs displayed in a row.
 
-## Careless Love
+## Original
 
-| Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
-|----------|------------|-------|------------|--------|---------|------------|
-| <audio controls><source src="assets/careless_love-10_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/careless_love-10_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-## Canopee
+## Upperbound
 
-| Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
-|----------|------------|-------|------------|--------|---------|------------|
-| <audio controls><source src="assets/canopee-7_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
-## Ainvayi Ainvayi
+## Ridge
 
-| Original | Upperbound | Ridge | Non-linear | Linear | EEG2Mel | Covariance |
-|----------|------------|-------|------------|--------|---------|------------|
-| <audio controls><source src="assets/ainvayi_ainvayi-4_orig.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_upperbound.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_ridge.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+## Non-linear
+
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_nonlin.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+## Linear
+
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_lin.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+## EEG2Mel
+
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_eeg2mel.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
+
+## Cov
+
+| Careless Love | Canopee | Ainvayi Ainvayi |
+|---------------|---------|-----------------|
+| <audio controls><source src="assets/careless_love-10_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/canopee-7_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> | <audio controls><source src="assets/ainvayi_ainvayi-4_gen_cov.wav" type="audio/wav">Your browser does not support the audio element.</audio> |
 
 ---
 
@@ -42,4 +66,4 @@ This page contains audio players for all the audio files in the assets folder. E
 - **Non-linear**: Generated using non-linear method
 - **Linear**: Generated using linear method
 - **EEG2Mel**: Generated using EEG to mel-spectrogram method
-- **Covariance**: Generated using covariance method 
+- **Cov**: Generated using point-process method
